@@ -24,11 +24,11 @@ API REST développée avec FastAPI permettant de suivre et analyser des indicate
 - pytest pour les tests automatisés
 
 ## Installation et lancement
-Etapes
+
 # Cloner le repository
 git clone https://github.com/IliesIdir/ecotrack-api.git
 
-# Créer l'environnement virtuel et installer les dépendenses 
+# Créer l'environnement virtuel et installer les dépendances
 
 # Lancer le serveur
 
