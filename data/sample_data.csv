@@ -1,0 +1,4 @@
+source,type,value,unit,zone_name,postal_code,timestamp,meta_info
+OpenAQ,air_quality,42.5,ug/m3,Paris Centre,75001,2025-11-01,PM2.5 measurement
+ADEME,co2,1200.0,kg,Lyon,69001,2025-11-01,Monthly CO2 emissions
+Open-Meteo,energy,3200.0,kWh,Marseille,13001,2025-11-01,Energy consumption
